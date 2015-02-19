@@ -69,7 +69,7 @@ void setup() {
 
   //intro 
   
-  /**
+
   playInput(intro1, intro1NoteDurations, intro1Count);
 
   playInput(intro2, intro2NoteDurations, intro2Count);
@@ -90,7 +90,7 @@ void setup() {
 
   playInput(endIntro, endIntroNoteDurations, endIntroCount);
   
-  */
+
 
   //verse 1
   
