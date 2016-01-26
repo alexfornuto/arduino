@@ -3,6 +3,7 @@
 int notes;
 int duration;
 
+// This is for an Arduino with a speaker attached. Is simply plays in single-note form the song Master of Puppets.
 // note durations: 4 = quarter note, 8 = eighth note, etc.:
 
 int intro1[] = {NOTE_E3, 0, NOTE_D4, NOTE_CS4, NOTE_C4};
